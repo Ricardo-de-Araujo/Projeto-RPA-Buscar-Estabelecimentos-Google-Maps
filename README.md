@@ -22,7 +22,7 @@ As configurações estão parametrizadas no arquivo JSON `app/config/config.json
 ### 4.1 - Headless
 
 Parâmetro responsável por executar a automação em background (sem interface gráfica) quando seu valor for TRUE.
-Nota: Para executar a automação com docker, seu valor deve obrigatoriamente em TRUE.
+Nota: Para executar a automação com docker, seu valor deve obrigatoriamente TRUE.
 
 ### 4.2 - Tamanho da janela
 
