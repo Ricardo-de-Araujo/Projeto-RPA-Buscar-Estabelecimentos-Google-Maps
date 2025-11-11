@@ -1,0 +1,19 @@
+2025-11-11 17:32:48,170 [main.py] [INFO] ===== Execução iniciada =====
+2025-11-11 17:32:48,171 [main.py] [INFO] Arquivo de entrada carregado: input.json
+2025-11-11 17:32:48,171 [criar_driver.py] [INFO] Lendo arquivo de configuracao: C:\RPA\projeto_rpa_maps\app\config\config.json
+2025-11-11 17:32:48,171 [logger.py] [INFO] ====== WebDriver manager ======
+2025-11-11 17:32:48,852 [logger.py] [INFO] Get LATEST chromedriver version for google-chrome
+2025-11-11 17:32:49,184 [logger.py] [INFO] Get LATEST chromedriver version for google-chrome
+2025-11-11 17:32:49,488 [logger.py] [INFO] Driver [C:\Users\Ricardo\.wdm\drivers\chromedriver\win64\140.0.7339.207\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-11 17:32:50,537 [salvar_excel.py] [INFO] Iniciando geração do Excel: C:\RPA\projeto_rpa_maps\app\saida\resultado_busca_maps.xlsx
+2025-11-11 17:32:50,670 [buscar_maps.py] [INFO] Buscando: Academias em Ribeirão Preto, SP (quantidade: 15)
+2025-11-11 17:33:32,362 [salvar_excel.py] [INFO] Aba adicionada ao Excel: Academias - Ribeirão Preto, SP
+2025-11-11 17:33:32,363 [buscar_maps.py] [INFO] Buscando: Restaurantes em São Paulo, SP (quantidade: 10)
+2025-11-11 17:34:01,694 [salvar_excel.py] [INFO] Aba adicionada ao Excel: Restaurantes - São Paulo, SP
+2025-11-11 17:34:01,694 [buscar_maps.py] [INFO] Buscando: Farmácias em Limeira, SP (quantidade: 13)
+2025-11-11 17:34:37,598 [salvar_excel.py] [INFO] Aba adicionada ao Excel: Farmácias - Limeira, SP
+2025-11-11 17:34:37,598 [buscar_maps.py] [INFO] Buscando: Auto Elétrica em Piracicaba, SP (quantidade: 8)
+2025-11-11 17:35:01,534 [salvar_excel.py] [INFO] Aba adicionada ao Excel: Auto Elétrica - Piracicaba, SP
+2025-11-11 17:35:01,582 [salvar_excel.py] [INFO] Excel gerado com sucesso
+2025-11-11 17:35:03,954 [main.py] [INFO] Arquivo gerado com sucesso: C:\RPA\projeto_rpa_maps\app\saida\resultado_busca_maps.xlsx
+2025-11-11 17:35:03,954 [main.py] [INFO] ===== Execução finalizada =====

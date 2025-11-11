@@ -1,0 +1,6 @@
+{
+  "headless": true,
+  "chrome_window_size": "1920,1080",
+  "link_google_maps": "https://www.google.com/maps",
+  "output_file_name": "resultado_busca_maps.xlsx"
+}

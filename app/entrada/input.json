@@ -1,0 +1,22 @@
+[
+    {
+        "tipo_estabelecimento": "Academias",
+        "cidade": "Ribeirão Preto, SP",
+        "quantidade": 15
+    },
+    {
+        "tipo_estabelecimento": "Restaurantes",
+        "cidade": "São Paulo, SP",
+        "quantidade": 10
+    },
+    {
+        "tipo_estabelecimento": "Farmácias",
+        "cidade": "Limeira, SP",
+        "quantidade": 13
+    },
+    {
+        "tipo_estabelecimento": "Auto Elétrica",
+        "cidade": "Piracicaba, SP",
+        "quantidade": 8
+    }
+]
