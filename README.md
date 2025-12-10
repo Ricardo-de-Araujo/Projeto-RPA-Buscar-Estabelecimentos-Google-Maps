@@ -32,9 +32,17 @@ O parâmetro "chrome_window_size" é responsável por definir a resolução da j
 
 O link do google maps é definido no parâmetro "link_google_maps" do arquivo de configuração.
 
-### 4.4 - Nome do arquivo de saída
+### 4.4 - Nome do arquivo de entrada
+
+O nome do arquivo de saída pode é definido no parâmetro "input_file_name".
+
+### 4.5 - Nome do arquivo de saída
 
 O nome do arquivo de saída pode é definido no parâmetro "output_file_name".
+
+### 4.6 - XPath
+
+O XPath dos elementos do google maps estão parametrizados no arquivo de configuração.
 
 ## 5 - Organização das pastas
 
