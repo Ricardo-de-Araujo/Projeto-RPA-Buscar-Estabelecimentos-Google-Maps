@@ -119,7 +119,7 @@ Para copiar o arquivo de saída e log utilize os comandos
 
 ```ssh
 docker cp <id_conteiner>:/rpa/app/saida ./app/
-docker cp <id_conteiner>:/rpa/app/log ./app/
+docker cp <id_conteiner>:/rpa/app/logs ./app/
 ```
 
 Para visualizar o ID do conteiner utilize
