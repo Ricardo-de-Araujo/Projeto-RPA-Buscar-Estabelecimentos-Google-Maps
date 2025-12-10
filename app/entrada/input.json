@@ -1,0 +1,32 @@
+[
+    {
+        "tipo_estabelecimento": "Subway",
+        "cidade": "Limeira, SP",
+        "quantidade": 10
+    },
+    {
+        "tipo_estabelecimento": "Academias",
+        "cidade": "Ribeirão Preto, SP",
+        "quantidade": 15
+    },
+    {
+        "tipo_estabelecimento": "Restaurantes",
+        "cidade": "São Paulo, SP",
+        "quantidade": 20
+    },
+    {
+        "tipo_estabelecimento": "Clínicas Médicas",
+        "cidade": "Piracicaba, SP",
+        "quantidade": 15
+    },
+    {
+        "tipo_estabelecimento": "Supermercados",
+        "cidade": "Curitiba, PR",
+        "quantidade": 10
+    },
+    {
+        "tipo_estabelecimento": "Barbearias",
+        "cidade": "Belo Horizonte, MG",
+        "quantidade": 5
+    }
+]

@@ -1,0 +1,21 @@
+{
+  "headless": true,
+  "chrome_window_size": "1920,1080",
+  "link_google_maps": "https://www.google.com/maps",
+  "input_file_name": "input.json",
+  "output_file_name": "resultado_busca_maps.xlsx",
+
+  "path_campo_buscar": "//*[@id='searchboxinput']",
+
+  "selector_lista_resultados": "//*[contains(@class,'Nv2PK')]",
+  "selector_scroll_div": "//div[contains(@aria-label, 'Resultados')]",
+  "selector_final_lista": "//*[contains(@class, 'HlvSq')]",
+  "selector_bloco": "//*[contains(@class, 'F7nice')]",
+
+  "path_nome": "//h1[contains(@class, 'DUwDvf')]",
+  "path_endereco": "//button[@data-item-id='address']//*[contains(@class, 'Io6YTe')]",
+  "path_telefone": "//button[starts-with(@data-item-id, 'phone:')]//*[contains(@class, 'Io6YTe')]",
+  "path_nota": ".//span[@aria-hidden='true']",
+  "path_qtd_avaliacoes": ".//span[contains(@aria-label, 'avalia')]",
+  "path_link_pagina": "//a[@data-item-id='authority']"
+}
