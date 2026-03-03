@@ -1,0 +1,494 @@
+2026-03-03 11:34:02,623 [main.py] [INFO] =========================================== Execução iniciada ===========================================
+2026-03-03 11:34:02,630 [main.py] [INFO] Arquivo de entrada carregado: input.json
+2026-03-03 11:34:02,630 [criar_driver.py] [INFO] =========================================================
+2026-03-03 11:34:02,630 [criar_driver.py] [INFO]    Lendo arquivo de configuracao: C:\RPA\projeto_rpa_maps\app\config\config.json
+2026-03-03 11:34:02,630 [logger.py] [INFO] ====== WebDriver manager ======
+2026-03-03 11:34:03,314 [logger.py] [INFO] Get LATEST chromedriver version for google-chrome
+2026-03-03 11:34:03,594 [logger.py] [INFO] Get LATEST chromedriver version for google-chrome
+2026-03-03 11:34:03,865 [logger.py] [INFO] Driver [C:\Users\Ricardo\.wdm\drivers\chromedriver\win64\143.0.7499.192\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-03 11:34:04,842 [salvar_excel.py] [INFO] =========================================================
+2026-03-03 11:34:04,842 [salvar_excel.py] [INFO]    Iniciando geração do Excel: C:\RPA\projeto_rpa_maps\app\saida\resultado_busca_maps.xlsx
+2026-03-03 11:34:04,965 [buscar_maps.py] [INFO] =========================================================
+2026-03-03 11:34:04,965 [buscar_maps.py] [INFO]    Buscando: Subway em Limeira, SP (quantidade: 5)
+2026-03-03 11:34:14,062 [buscar_maps.py] [INFO] =========================================================
+2026-03-03 11:34:14,062 [buscar_maps.py] [INFO] Nome: Subway
+2026-03-03 11:34:14,062 [buscar_maps.py] [INFO] Endereço: Av. Piracicaba, 569 - Vila Sao Joao, Limeira - SP, 13480-743
+2026-03-03 11:34:14,062 [buscar_maps.py] [INFO] Telefone: (19) 3702-3241
+2026-03-03 11:34:14,063 [buscar_maps.py] [INFO] Nota: 4,2
+2026-03-03 11:34:14,063 [buscar_maps.py] [INFO] Qtd. de Avaliações: 812
+2026-03-03 11:34:14,063 [buscar_maps.py] [INFO] Link da Página: https://www.subway.com.br/
+2026-03-03 11:34:16,152 [buscar_maps.py] [INFO] =========================================================
+2026-03-03 11:34:16,152 [buscar_maps.py] [INFO] Nome: Subway
+2026-03-03 11:34:16,152 [buscar_maps.py] [INFO] Endereço: R. Santa Cruz, 601 - Centro, Limeira - SP, 13480-041
+2026-03-03 11:34:16,152 [buscar_maps.py] [INFO] Telefone: (19) 3445-1158
+2026-03-03 11:34:16,152 [buscar_maps.py] [INFO] Nota: 4,4
+2026-03-03 11:34:16,153 [buscar_maps.py] [INFO] Qtd. de Avaliações: 532
+2026-03-03 11:34:16,153 [buscar_maps.py] [INFO] Link da Página: https://www.subway.com.br/
+2026-03-03 11:34:18,275 [buscar_maps.py] [INFO] =========================================================
+2026-03-03 11:34:18,275 [buscar_maps.py] [INFO] Nome: Subway
+2026-03-03 11:34:18,275 [buscar_maps.py] [INFO] Endereço: Pátio Limeira - R. Carlos Gomes, 1321 - Centro, Limeira - SP, 13480-013
+2026-03-03 11:34:18,275 [buscar_maps.py] [INFO] Telefone: (19) 3441-9361
+2026-03-03 11:34:18,275 [buscar_maps.py] [INFO] Nota: 4,1
+2026-03-03 11:34:18,275 [buscar_maps.py] [INFO] Qtd. de Avaliações: 217
+2026-03-03 11:34:18,275 [buscar_maps.py] [INFO] Link da Página: https://www.subway.com.br/
+2026-03-03 11:34:20,420 [buscar_maps.py] [INFO] =========================================================
+2026-03-03 11:34:20,420 [buscar_maps.py] [INFO] Nome: Subway
+2026-03-03 11:34:20,420 [buscar_maps.py] [INFO] Endereço: Av. Carlos Kuntz Busch, 800 - 53 - Parque Egisto Ragazzo, Limeira - SP, 13485-346
+2026-03-03 11:34:20,420 [buscar_maps.py] [INFO] Telefone: (19) 3445-8632
+2026-03-03 11:34:20,421 [buscar_maps.py] [INFO] Nota: 3,8
+2026-03-03 11:34:20,421 [buscar_maps.py] [INFO] Qtd. de Avaliações: 45
+2026-03-03 11:34:20,421 [buscar_maps.py] [INFO] Link da Página: https://www.subway.com.br/
+2026-03-03 11:34:22,607 [buscar_maps.py] [INFO] =========================================================
+2026-03-03 11:34:22,608 [buscar_maps.py] [INFO] Nome: Subway
+2026-03-03 11:34:22,608 [buscar_maps.py] [INFO] Endereço: Shopping Nações Limeira - Rod. Dep. Laércio Côrte, 4500 - 2° Andar - Graminha, Limeira - SP, 13482-902
+2026-03-03 11:34:22,608 [buscar_maps.py] [INFO] Telefone: (19) 3449-3534
+2026-03-03 11:34:22,608 [buscar_maps.py] [INFO] Nota: 3,7
+2026-03-03 11:34:22,608 [buscar_maps.py] [INFO] Qtd. de Avaliações: 22
+2026-03-03 11:34:22,608 [buscar_maps.py] [INFO] Link da Página: Não disponível
+2026-03-03 11:34:22,613 [salvar_excel.py] [INFO] =========================================================
+2026-03-03 11:34:22,613 [salvar_excel.py] [INFO]    Aba adicionada ao Excel: Subway - Limeira, SP
+2026-03-03 11:34:22,613 [buscar_maps.py] [INFO] =========================================================
+2026-03-03 11:34:22,613 [buscar_maps.py] [INFO]    Buscando: Academias em Ribeirão Preto, SP (quantidade: 20)
+2026-03-03 11:34:29,920 [buscar_maps.py] [INFO] =========================================================
+2026-03-03 11:34:29,920 [buscar_maps.py] [INFO] Nome: Skalfit Academia
+2026-03-03 11:34:29,920 [buscar_maps.py] [INFO] Endereço: Av. Pres. Castelo Branco, 460 - Pres. Medici, Ribeirão Preto - SP, 14091-413
+2026-03-03 11:34:29,921 [buscar_maps.py] [INFO] Telefone: (16) 99299-1600
+2026-03-03 11:34:29,921 [buscar_maps.py] [INFO] Nota: 4,6
+2026-03-03 11:34:29,921 [buscar_maps.py] [INFO] Qtd. de Avaliações: 284
+2026-03-03 11:34:29,921 [buscar_maps.py] [INFO] Link da Página: https://www.skalfit.com.br/
+2026-03-03 11:34:32,047 [buscar_maps.py] [INFO] =========================================================
+2026-03-03 11:34:32,047 [buscar_maps.py] [INFO] Nome: Free Academia
+2026-03-03 11:34:32,047 [buscar_maps.py] [INFO] Endereço: Praça Francisco Oranges, 100 - Ribeirânia, Ribeirão Preto - SP, 14096-079
+2026-03-03 11:34:32,047 [buscar_maps.py] [INFO] Telefone: (16) 98251-2428
+2026-03-03 11:34:32,047 [buscar_maps.py] [INFO] Nota: 4,6
+2026-03-03 11:34:32,047 [buscar_maps.py] [INFO] Qtd. de Avaliações: 549
+2026-03-03 11:34:32,048 [buscar_maps.py] [INFO] Link da Página: Não disponível
+2026-03-03 11:34:34,139 [buscar_maps.py] [INFO] =========================================================
+2026-03-03 11:34:34,139 [buscar_maps.py] [INFO] Nome: Allp Fit Ribeirão Preto
+2026-03-03 11:34:34,140 [buscar_maps.py] [INFO] Endereço: Av. Dr. Francisco Junqueira, 2534 - Vila Seixas, Ribeirão Preto - SP, 14020-000
+2026-03-03 11:34:34,140 [buscar_maps.py] [INFO] Telefone: (16) 99738-7868
+2026-03-03 11:34:34,140 [buscar_maps.py] [INFO] Nota: 4,5
+2026-03-03 11:34:34,140 [buscar_maps.py] [INFO] Qtd. de Avaliações: 33
+2026-03-03 11:34:34,140 [buscar_maps.py] [INFO] Link da Página: https://allpfit.com.br/
+2026-03-03 11:34:36,269 [buscar_maps.py] [INFO] =========================================================
+2026-03-03 11:34:36,269 [buscar_maps.py] [INFO] Nome: Academia BlueFit Biagi
+2026-03-03 11:34:36,269 [buscar_maps.py] [INFO] Endereço: Av. Maurílio Biagi, 1450 - Santa Cruz do Jose Jacques, Ribeirão Preto - SP, 14020-750
+2026-03-03 11:34:36,269 [buscar_maps.py] [INFO] Telefone: Não encontrado
+2026-03-03 11:34:36,269 [buscar_maps.py] [INFO] Nota: 4,4
+2026-03-03 11:34:36,269 [buscar_maps.py] [INFO] Qtd. de Avaliações: 348
+2026-03-03 11:34:36,269 [buscar_maps.py] [INFO] Link da Página: https://www.bluefit.com.br/unidade/biagi
+2026-03-03 11:34:38,409 [buscar_maps.py] [INFO] =========================================================
+2026-03-03 11:34:38,409 [buscar_maps.py] [INFO] Nome: Academia Gaviões 24h - Ribeirão Preto
+2026-03-03 11:34:38,410 [buscar_maps.py] [INFO] Endereço: Av. Dom Pedro I, 1200 - Ipiranga, Ribeirão Preto - SP, 14055-630
+2026-03-03 11:34:38,410 [buscar_maps.py] [INFO] Telefone: (11) 94074-7584
+2026-03-03 11:34:38,410 [buscar_maps.py] [INFO] Nota: 4,2
+2026-03-03 11:34:38,410 [buscar_maps.py] [INFO] Qtd. de Avaliações: 309
+2026-03-03 11:34:38,410 [buscar_maps.py] [INFO] Link da Página: https://academiagavioes.com.br/unidades/item/spribeiraopreto
+2026-03-03 11:34:40,614 [buscar_maps.py] [INFO] =========================================================
+2026-03-03 11:34:40,614 [buscar_maps.py] [INFO] Nome: Prime Academia Ribeirão Preto
+2026-03-03 11:34:40,614 [buscar_maps.py] [INFO] Endereço: Alameda Domingos F. Vilas Bôas, 946 - Parque dos Lagos, Ribeirão Preto - SP, 14094-164
+2026-03-03 11:34:40,614 [buscar_maps.py] [INFO] Telefone: (16) 99427-4085
+2026-03-03 11:34:40,614 [buscar_maps.py] [INFO] Nota: 4,9
+2026-03-03 11:34:40,614 [buscar_maps.py] [INFO] Qtd. de Avaliações: 129
+2026-03-03 11:34:40,615 [buscar_maps.py] [INFO] Link da Página: https://www.instagram.com/primeacademiarp?igsh=eDd0ZnM5N3N1bWd4
+2026-03-03 11:34:42,831 [buscar_maps.py] [INFO] =========================================================
+2026-03-03 11:34:42,831 [buscar_maps.py] [INFO] Nome: RP Fitness Academia | Lutas e Musculação | Ribeirão Preto
+2026-03-03 11:34:42,831 [buscar_maps.py] [INFO] Endereço: R. Guarujá, 27 - Jardim Paulista, Ribeirão Preto - SP, 14090-102
+2026-03-03 11:34:42,831 [buscar_maps.py] [INFO] Telefone: (16) 98189-3355
+2026-03-03 11:34:42,831 [buscar_maps.py] [INFO] Nota: 4,7
+2026-03-03 11:34:42,831 [buscar_maps.py] [INFO] Qtd. de Avaliações: 217
+2026-03-03 11:34:42,831 [buscar_maps.py] [INFO] Link da Página: https://rpfitness.com.br/links
+2026-03-03 11:34:44,953 [buscar_maps.py] [INFO] =========================================================
+2026-03-03 11:34:44,953 [buscar_maps.py] [INFO] Nome: Academia Evolution RP
+2026-03-03 11:34:44,953 [buscar_maps.py] [INFO] Endereço: R. Carlos Gomes, 257 - Campos Elísios, Ribeirão Preto - SP, 14085-400
+2026-03-03 11:34:44,953 [buscar_maps.py] [INFO] Telefone: (16) 99208-2796
+2026-03-03 11:34:44,953 [buscar_maps.py] [INFO] Nota: 4,9
+2026-03-03 11:34:44,953 [buscar_maps.py] [INFO] Qtd. de Avaliações: 115
+2026-03-03 11:34:44,954 [buscar_maps.py] [INFO] Link da Página: Não disponível
+2026-03-03 11:34:47,069 [buscar_maps.py] [INFO] =========================================================
+2026-03-03 11:34:47,069 [buscar_maps.py] [INFO] Nome: Studio 4 Academia & Fitness
+2026-03-03 11:34:47,069 [buscar_maps.py] [INFO] Endereço: Av. Eduardo Andréia Matarazzo, 755 - Ipiranga, Ribeirão Preto - SP, 14060-810
+2026-03-03 11:34:47,069 [buscar_maps.py] [INFO] Telefone: (16) 99380-0750
+2026-03-03 11:34:47,069 [buscar_maps.py] [INFO] Nota: 4,8
+2026-03-03 11:34:47,069 [buscar_maps.py] [INFO] Qtd. de Avaliações: 476
+2026-03-03 11:34:47,069 [buscar_maps.py] [INFO] Link da Página: http://www.studio4academia.com.br/
+2026-03-03 11:34:49,187 [buscar_maps.py] [INFO] =========================================================
+2026-03-03 11:34:49,188 [buscar_maps.py] [INFO] Nome: Boa Forma Fitness - Academia
+2026-03-03 11:34:49,188 [buscar_maps.py] [INFO] Endereço: R. André Rebouças, 739 - Ipiranga, Ribeirão Preto - SP, 14055-650
+2026-03-03 11:34:49,188 [buscar_maps.py] [INFO] Telefone: (16) 99212-1774
+2026-03-03 11:34:49,188 [buscar_maps.py] [INFO] Nota: 4,9
+2026-03-03 11:34:49,188 [buscar_maps.py] [INFO] Qtd. de Avaliações: 296
+2026-03-03 11:34:49,188 [buscar_maps.py] [INFO] Link da Página: https://www.instagram.com/boaformafitnessrp/
+2026-03-03 11:34:51,323 [buscar_maps.py] [INFO] =========================================================
+2026-03-03 11:34:51,323 [buscar_maps.py] [INFO] Nome: Workout Sport Club - Academia em Ribeirão Preto
+2026-03-03 11:34:51,323 [buscar_maps.py] [INFO] Endereço: R. Arnaldo Victaliano, 916 - Pres. Medici, Ribeirão Preto - SP, 14091-220
+2026-03-03 11:34:51,323 [buscar_maps.py] [INFO] Telefone: (16) 99292-3729
+2026-03-03 11:34:51,324 [buscar_maps.py] [INFO] Nota: 4,9
+2026-03-03 11:34:51,324 [buscar_maps.py] [INFO] Qtd. de Avaliações: 143
+2026-03-03 11:34:51,324 [buscar_maps.py] [INFO] Link da Página: https://www.workoutsportclub.com/
+2026-03-03 11:34:53,452 [buscar_maps.py] [INFO] =========================================================
+2026-03-03 11:34:53,452 [buscar_maps.py] [INFO] Nome: Academia Triathlon
+2026-03-03 11:34:53,452 [buscar_maps.py] [INFO] Endereço: Av. Dr. Plínio de Castro Prado, 844 - Jardim Palma Travassos, Ribeirão Preto - SP, 14091-160
+2026-03-03 11:34:53,453 [buscar_maps.py] [INFO] Telefone: (16) 3624-9311
+2026-03-03 11:34:53,453 [buscar_maps.py] [INFO] Nota: 4,8
+2026-03-03 11:34:53,453 [buscar_maps.py] [INFO] Qtd. de Avaliações: 323
+2026-03-03 11:34:53,453 [buscar_maps.py] [INFO] Link da Página: http://www.academiatriathlon.com.br/
+2026-03-03 11:34:55,572 [buscar_maps.py] [INFO] =========================================================
+2026-03-03 11:34:55,572 [buscar_maps.py] [INFO] Nome: Platz Academia
+2026-03-03 11:34:55,572 [buscar_maps.py] [INFO] Endereço: Avenida Antônio Machado Santa'Anna, 50 - City Ribeirão, Ribeirão Preto - SP, 14021-230
+2026-03-03 11:34:55,572 [buscar_maps.py] [INFO] Telefone: (16) 99604-7245
+2026-03-03 11:34:55,572 [buscar_maps.py] [INFO] Nota: 4,9
+2026-03-03 11:34:55,572 [buscar_maps.py] [INFO] Qtd. de Avaliações: 66
+2026-03-03 11:34:55,572 [buscar_maps.py] [INFO] Link da Página: Não disponível
+2026-03-03 11:34:57,682 [buscar_maps.py] [INFO] =========================================================
+2026-03-03 11:34:57,682 [buscar_maps.py] [INFO] Nome: Academia Pulsar Ribeirão Preto
+2026-03-03 11:34:57,682 [buscar_maps.py] [INFO] Endereço: R. Valentim Mestriner, 475 - Iguatemi, Ribeirão Preto - SP, 14091-420
+2026-03-03 11:34:57,682 [buscar_maps.py] [INFO] Telefone: (16) 3618-1050
+2026-03-03 11:34:57,682 [buscar_maps.py] [INFO] Nota: 4,7
+2026-03-03 11:34:57,682 [buscar_maps.py] [INFO] Qtd. de Avaliações: 32
+2026-03-03 11:34:57,682 [buscar_maps.py] [INFO] Link da Página: Não disponível
+2026-03-03 11:34:59,806 [buscar_maps.py] [INFO] =========================================================
+2026-03-03 11:34:59,806 [buscar_maps.py] [INFO] Nome: ForBody Academia Vila Virgínia
+2026-03-03 11:34:59,806 [buscar_maps.py] [INFO] Endereço: R. Franco da Rocha, 1370 - Vila Virginia, Ribeirão Preto - SP, 14030-356
+2026-03-03 11:34:59,806 [buscar_maps.py] [INFO] Telefone: (16) 99223-8286
+2026-03-03 11:34:59,806 [buscar_maps.py] [INFO] Nota: 4,9
+2026-03-03 11:34:59,806 [buscar_maps.py] [INFO] Qtd. de Avaliações: 123
+2026-03-03 11:34:59,807 [buscar_maps.py] [INFO] Link da Página: https://bit.ly/Academiagoogle
+2026-03-03 11:35:01,939 [buscar_maps.py] [INFO] =========================================================
+2026-03-03 11:35:01,939 [buscar_maps.py] [INFO] Nome: Academia BlueFit Nova Aliança
+2026-03-03 11:35:01,939 [buscar_maps.py] [INFO] Endereço: Av. Dr. José Cesário Monteiro da Silva, 385 - Nova Aliança, Ribeirão Preto - SP, 14026-600
+2026-03-03 11:35:01,940 [buscar_maps.py] [INFO] Telefone: Não encontrado
+2026-03-03 11:35:01,940 [buscar_maps.py] [INFO] Nota: 4,1
+2026-03-03 11:35:01,940 [buscar_maps.py] [INFO] Qtd. de Avaliações: 384
+2026-03-03 11:35:01,940 [buscar_maps.py] [INFO] Link da Página: https://www.bluefit.com.br/unidade/nova-alianca
+2026-03-03 11:35:04,067 [buscar_maps.py] [INFO] =========================================================
+2026-03-03 11:35:04,067 [buscar_maps.py] [INFO] Nome: ForBody Academia - Unidade 1
+2026-03-03 11:35:04,067 [buscar_maps.py] [INFO] Endereço: R. Triunfo, 385 - Santa Cruz do Jose Jacques, Ribeirão Preto - SP, 14020-670
+2026-03-03 11:35:04,068 [buscar_maps.py] [INFO] Telefone: (16) 99437-4366
+2026-03-03 11:35:04,068 [buscar_maps.py] [INFO] Nota: 4,7
+2026-03-03 11:35:04,068 [buscar_maps.py] [INFO] Qtd. de Avaliações: 106
+2026-03-03 11:35:04,068 [buscar_maps.py] [INFO] Link da Página: http://www.forbodyacademia.com.br/
+2026-03-03 11:35:06,247 [buscar_maps.py] [INFO] =========================================================
+2026-03-03 11:35:06,247 [buscar_maps.py] [INFO] Nome: Academia Universal
+2026-03-03 11:35:06,247 [buscar_maps.py] [INFO] Endereço: R. Ten. Catão Roxo, 1612 - Jardim Antartica, Ribeirão Preto - SP, 14051-140
+2026-03-03 11:35:06,247 [buscar_maps.py] [INFO] Telefone: (16) 99796-4682
+2026-03-03 11:35:06,247 [buscar_maps.py] [INFO] Nota: 4,8
+2026-03-03 11:35:06,248 [buscar_maps.py] [INFO] Qtd. de Avaliações: 171
+2026-03-03 11:35:06,248 [buscar_maps.py] [INFO] Link da Página: http://www.academiauniversalrp.com.br/
+2026-03-03 11:35:08,365 [buscar_maps.py] [INFO] =========================================================
+2026-03-03 11:35:08,365 [buscar_maps.py] [INFO] Nome: Power House Fitness Gym
+2026-03-03 11:35:08,366 [buscar_maps.py] [INFO] Endereço: R. Dr. Jorge Lobato, 678 - Vila Tiberio, Ribeirão Preto - SP, 14050-110
+2026-03-03 11:35:08,366 [buscar_maps.py] [INFO] Telefone: Não encontrado
+2026-03-03 11:35:08,366 [buscar_maps.py] [INFO] Nota: 5,0
+2026-03-03 11:35:08,366 [buscar_maps.py] [INFO] Qtd. de Avaliações: 84
+2026-03-03 11:35:08,366 [buscar_maps.py] [INFO] Link da Página: https://instagram.com/powerhouse.fitnessgym
+2026-03-03 11:35:10,547 [buscar_maps.py] [INFO] =========================================================
+2026-03-03 11:35:10,547 [buscar_maps.py] [INFO] Nome: Companhia Athletica Ribeirão Preto
+2026-03-03 11:35:10,547 [buscar_maps.py] [INFO] Endereço: Avenida Coronel Fernando Ferreira Leite, 1540 RibeirãoShopping - Jardim Nova Alianca, Ribeirão Preto - SP, 14026-900
+2026-03-03 11:35:10,547 [buscar_maps.py] [INFO] Telefone: (16) 3917-5000
+2026-03-03 11:35:10,547 [buscar_maps.py] [INFO] Nota: 4,7
+2026-03-03 11:35:10,547 [buscar_maps.py] [INFO] Qtd. de Avaliações: 408
+2026-03-03 11:35:10,547 [buscar_maps.py] [INFO] Link da Página: http://ciaathletica.com.br/ribeirao-shopping/
+2026-03-03 11:35:10,551 [salvar_excel.py] [INFO] =========================================================
+2026-03-03 11:35:10,551 [salvar_excel.py] [INFO]    Aba adicionada ao Excel: Academias - Ribeirão Preto, SP
+2026-03-03 11:35:10,551 [buscar_maps.py] [INFO] =========================================================
+2026-03-03 11:35:10,551 [buscar_maps.py] [INFO]    Buscando: Restaurantes em São Paulo, SP (quantidade: 15)
+2026-03-03 11:35:17,889 [buscar_maps.py] [INFO] =========================================================
+2026-03-03 11:35:17,889 [buscar_maps.py] [INFO] Nome: Cortés Asador Villa-Lobos
+2026-03-03 11:35:17,890 [buscar_maps.py] [INFO] Endereço: Av. das Nações Unidas, 4777 - Jardim Universidade Pinheiros, São Paulo - SP, 05477-000
+2026-03-03 11:35:17,890 [buscar_maps.py] [INFO] Telefone: (11) 3474-6030
+2026-03-03 11:35:17,890 [buscar_maps.py] [INFO] Nota: 4,3
+2026-03-03 11:35:17,890 [buscar_maps.py] [INFO] Qtd. de Avaliações: 954
+2026-03-03 11:35:17,890 [buscar_maps.py] [INFO] Link da Página: https://restaurantecortes.com.br/
+2026-03-03 11:35:20,014 [buscar_maps.py] [INFO] =========================================================
+2026-03-03 11:35:20,014 [buscar_maps.py] [INFO] Nome: Sta.Matta
+2026-03-03 11:35:20,014 [buscar_maps.py] [INFO] Endereço: R. Miriti, n8 - Itaim Bibi, São Paulo - SP, 04543-000
+2026-03-03 11:35:20,015 [buscar_maps.py] [INFO] Telefone: (11) 99919-5622
+2026-03-03 11:35:20,015 [buscar_maps.py] [INFO] Nota: 4,8
+2026-03-03 11:35:20,015 [buscar_maps.py] [INFO] Qtd. de Avaliações: 140
+2026-03-03 11:35:20,015 [buscar_maps.py] [INFO] Link da Página: https://www.stamatta.com.br/
+2026-03-03 11:35:22,157 [buscar_maps.py] [INFO] =========================================================
+2026-03-03 11:35:22,157 [buscar_maps.py] [INFO] Nome: Coco Bambu
+2026-03-03 11:35:22,157 [buscar_maps.py] [INFO] Endereço: R. Azevedo Soares, 2150 - Jardim Analia Franco, São Paulo - SP, 03322-002
+2026-03-03 11:35:22,158 [buscar_maps.py] [INFO] Telefone: (11) 4304-6221
+2026-03-03 11:35:22,158 [buscar_maps.py] [INFO] Nota: 4,7
+2026-03-03 11:35:22,158 [buscar_maps.py] [INFO] Qtd. de Avaliações: 36.524
+2026-03-03 11:35:22,158 [buscar_maps.py] [INFO] Link da Página: http://cocobambu.com/
+2026-03-03 11:35:24,289 [buscar_maps.py] [INFO] =========================================================
+2026-03-03 11:35:24,289 [buscar_maps.py] [INFO] Nome: A Casa do Porco Bar
+2026-03-03 11:35:24,290 [buscar_maps.py] [INFO] Endereço: R. Araújo, 124 - República, São Paulo - SP, 01220-020
+2026-03-03 11:35:24,290 [buscar_maps.py] [INFO] Telefone: (11) 3258-2578
+2026-03-03 11:35:24,290 [buscar_maps.py] [INFO] Nota: 4,4
+2026-03-03 11:35:24,290 [buscar_maps.py] [INFO] Qtd. de Avaliações: 14.801
+2026-03-03 11:35:24,290 [buscar_maps.py] [INFO] Link da Página: https://reservation-widget.tagme.com.br/smartlink/616efc96ffe80e0011e599d8
+2026-03-03 11:35:26,423 [buscar_maps.py] [INFO] =========================================================
+2026-03-03 11:35:26,424 [buscar_maps.py] [INFO] Nome: Le Bife
+2026-03-03 11:35:26,424 [buscar_maps.py] [INFO] Endereço: R. Pedroso Alvarenga, 1088 - Unid. 13 - Itaim Bibi, São Paulo - SP, 04531-004
+2026-03-03 11:35:26,424 [buscar_maps.py] [INFO] Telefone: (11) 4324-0783
+2026-03-03 11:35:26,424 [buscar_maps.py] [INFO] Nota: 4,6
+2026-03-03 11:35:26,424 [buscar_maps.py] [INFO] Qtd. de Avaliações: 5.348
+2026-03-03 11:35:26,424 [buscar_maps.py] [INFO] Link da Página: http://www.lebife.com.br/
+2026-03-03 11:35:28,541 [buscar_maps.py] [INFO] =========================================================
+2026-03-03 11:35:28,541 [buscar_maps.py] [INFO] Nome: L'Osteria do Piero
+2026-03-03 11:35:28,541 [buscar_maps.py] [INFO] Endereço: Alameda Franca, 1509 - Cerqueira César, São Paulo - SP, 01422-001
+2026-03-03 11:35:28,541 [buscar_maps.py] [INFO] Telefone: (11) 3086-1010
+2026-03-03 11:35:28,542 [buscar_maps.py] [INFO] Nota: 4,6
+2026-03-03 11:35:28,542 [buscar_maps.py] [INFO] Qtd. de Avaliações: 2.471
+2026-03-03 11:35:28,542 [buscar_maps.py] [INFO] Link da Página: http://www.losteriadopiero.com.br/
+2026-03-03 11:35:30,690 [buscar_maps.py] [INFO] =========================================================
+2026-03-03 11:35:30,690 [buscar_maps.py] [INFO] Nome: Parrillada Fuego Celeste - Unidade Moema
+2026-03-03 11:35:30,690 [buscar_maps.py] [INFO] Endereço: Av. Jacutinga, 365 - Indianópolis, São Paulo - SP, 04515-030
+2026-03-03 11:35:30,690 [buscar_maps.py] [INFO] Telefone: (11) 5051-7575
+2026-03-03 11:35:30,690 [buscar_maps.py] [INFO] Nota: 4,8
+2026-03-03 11:35:30,690 [buscar_maps.py] [INFO] Qtd. de Avaliações: 2.287
+2026-03-03 11:35:30,690 [buscar_maps.py] [INFO] Link da Página: https://www.instagram.com/fuegocelesteoficial/?hl=pt-br
+2026-03-03 11:35:32,802 [buscar_maps.py] [INFO] =========================================================
+2026-03-03 11:35:32,803 [buscar_maps.py] [INFO] Nome: Restaurante Porque Sim
+2026-03-03 11:35:32,803 [buscar_maps.py] [INFO] Endereço: R. Thomaz Gonzaga, 75 - Liberdade, São Paulo - SP, 01506-020
+2026-03-03 11:35:32,803 [buscar_maps.py] [INFO] Telefone: (11) 3277-1557
+2026-03-03 11:35:32,803 [buscar_maps.py] [INFO] Nota: 4,7
+2026-03-03 11:35:32,803 [buscar_maps.py] [INFO] Qtd. de Avaliações: 6.448
+2026-03-03 11:35:32,803 [buscar_maps.py] [INFO] Link da Página: https://www.instagram.com/restauranteporquesim/
+2026-03-03 11:35:34,937 [buscar_maps.py] [INFO] =========================================================
+2026-03-03 11:35:34,938 [buscar_maps.py] [INFO] Nome: Esther Rooftop
+2026-03-03 11:35:34,938 [buscar_maps.py] [INFO] Endereço: 01045-000, R. Basílio da Gama, 29 - Conjunto 1101 - República, São Paulo - SP, 01046-020
+2026-03-03 11:35:34,938 [buscar_maps.py] [INFO] Telefone: (11) 3256-1009
+2026-03-03 11:35:34,938 [buscar_maps.py] [INFO] Nota: 4,5
+2026-03-03 11:35:34,938 [buscar_maps.py] [INFO] Qtd. de Avaliações: 3.659
+2026-03-03 11:35:34,938 [buscar_maps.py] [INFO] Link da Página: https://www.estherrooftop.com.br/
+2026-03-03 11:35:37,077 [buscar_maps.py] [INFO] =========================================================
+2026-03-03 11:35:37,077 [buscar_maps.py] [INFO] Nome: Sapori d'Italia Limeira Cucina & Bar
+2026-03-03 11:35:37,077 [buscar_maps.py] [INFO] Endereço: Rua São Vicente de Paulo, 423 - São Cristovam, Limeira - SP, 13480-590
+2026-03-03 11:35:37,078 [buscar_maps.py] [INFO] Telefone: (19) 3702-2031
+2026-03-03 11:35:37,078 [buscar_maps.py] [INFO] Nota: 4,7
+2026-03-03 11:35:37,078 [buscar_maps.py] [INFO] Qtd. de Avaliações: 410
+2026-03-03 11:35:37,078 [buscar_maps.py] [INFO] Link da Página: http://www.saporilimeira.com.br/
+2026-03-03 11:35:39,201 [buscar_maps.py] [INFO] =========================================================
+2026-03-03 11:35:39,201 [buscar_maps.py] [INFO] Nome: Parrillada Fuego Celeste - Unidade Vila Mariana
+2026-03-03 11:35:39,201 [buscar_maps.py] [INFO] Endereço: R. Joaquim Távora, 1068 - Vila Mariana, São Paulo - SP, 04015-012
+2026-03-03 11:35:39,202 [buscar_maps.py] [INFO] Telefone: (11) 4563-8999
+2026-03-03 11:35:39,202 [buscar_maps.py] [INFO] Nota: 4,8
+2026-03-03 11:35:39,202 [buscar_maps.py] [INFO] Qtd. de Avaliações: 4.078
+2026-03-03 11:35:39,202 [buscar_maps.py] [INFO] Link da Página: https://www.instagram.com/fuegocelesteoficial/?hl=pt-br
+2026-03-03 11:35:41,340 [buscar_maps.py] [INFO] =========================================================
+2026-03-03 11:35:41,340 [buscar_maps.py] [INFO] Nome: Coco Bambu - SP Market
+2026-03-03 11:35:41,341 [buscar_maps.py] [INFO] Endereço: Shopping Sp Market - Av. das Nações Unidas, 22540 - Vila Almeida, São Paulo - SP, 04795-000
+2026-03-03 11:35:41,341 [buscar_maps.py] [INFO] Telefone: (11) 5548-4712
+2026-03-03 11:35:41,341 [buscar_maps.py] [INFO] Nota: 4,8
+2026-03-03 11:35:41,341 [buscar_maps.py] [INFO] Qtd. de Avaliações: 24.392
+2026-03-03 11:35:41,341 [buscar_maps.py] [INFO] Link da Página: http://cocobambu.com/
+2026-03-03 11:35:43,473 [buscar_maps.py] [INFO] =========================================================
+2026-03-03 11:35:43,473 [buscar_maps.py] [INFO] Nome: Zucco Ristorante: Cozinha Italiana, Contemporâneo, Risotos, Massas, Vinhos SP
+2026-03-03 11:35:43,473 [buscar_maps.py] [INFO] Endereço: Rua Haddock Lobo, 1416 - Cerqueira César, São Paulo - SP, 01414-002
+2026-03-03 11:35:43,473 [buscar_maps.py] [INFO] Telefone: (11) 3897-0666
+2026-03-03 11:35:43,473 [buscar_maps.py] [INFO] Nota: 4,8
+2026-03-03 11:35:43,473 [buscar_maps.py] [INFO] Qtd. de Avaliações: 4.294
+2026-03-03 11:35:43,473 [buscar_maps.py] [INFO] Link da Página: https://ristorante.zucco.com.br/
+2026-03-03 11:35:45,583 [buscar_maps.py] [INFO] =========================================================
+2026-03-03 11:35:45,583 [buscar_maps.py] [INFO] Nome: Restaurante Expresso São Paulo
+2026-03-03 11:35:45,584 [buscar_maps.py] [INFO] Endereço: R. da Quitanda, 123 - Centro Histórico de São Paulo, São Paulo - SP, 01012-010
+2026-03-03 11:35:45,584 [buscar_maps.py] [INFO] Telefone: (11) 99487-8931
+2026-03-03 11:35:45,584 [buscar_maps.py] [INFO] Nota: 4,4
+2026-03-03 11:35:45,584 [buscar_maps.py] [INFO] Qtd. de Avaliações: 895
+2026-03-03 11:35:45,584 [buscar_maps.py] [INFO] Link da Página: https://www.instagram.com/expressosaopaulo/
+2026-03-03 11:35:47,703 [buscar_maps.py] [INFO] =========================================================
+2026-03-03 11:35:47,703 [buscar_maps.py] [INFO] Nome: HUB Food Art Lounge
+2026-03-03 11:35:47,704 [buscar_maps.py] [INFO] Endereço: R. Olimpíadas, 205 - Vila Olímpia, São Paulo - SP, 04551-000
+2026-03-03 11:35:47,704 [buscar_maps.py] [INFO] Telefone: (11) 3049-6689
+2026-03-03 11:35:47,704 [buscar_maps.py] [INFO] Nota: 4,6
+2026-03-03 11:35:47,704 [buscar_maps.py] [INFO] Qtd. de Avaliações: 610
+2026-03-03 11:35:47,704 [buscar_maps.py] [INFO] Link da Página: https://www.hubrestaurante.com/?utm_source=Referral&utm_medium=AccorHotels
+2026-03-03 11:35:47,709 [salvar_excel.py] [INFO] =========================================================
+2026-03-03 11:35:47,709 [salvar_excel.py] [INFO]    Aba adicionada ao Excel: Restaurantes - São Paulo, SP
+2026-03-03 11:35:47,709 [buscar_maps.py] [INFO] =========================================================
+2026-03-03 11:35:47,709 [buscar_maps.py] [INFO]    Buscando: Clínicas Médicas em Piracicaba, SP (quantidade: 10)
+2026-03-03 11:35:52,999 [buscar_maps.py] [INFO] =========================================================
+2026-03-03 11:35:52,999 [buscar_maps.py] [INFO] Nome: Dr Fábio do Carmo Duarte Geriatra em Piracicaba
+2026-03-03 11:35:53,000 [buscar_maps.py] [INFO] Endereço: R. do Vergueiro, 409 - Centro, Piracicaba - SP, 13400-770
+2026-03-03 11:35:53,000 [buscar_maps.py] [INFO] Telefone: (19) 98408-2706
+2026-03-03 11:35:53,000 [buscar_maps.py] [INFO] Nota: 4,9
+2026-03-03 11:35:53,000 [buscar_maps.py] [INFO] Qtd. de Avaliações: 53
+2026-03-03 11:35:53,000 [buscar_maps.py] [INFO] Link da Página: https://drfabioduartegeriatra.com.br/
+2026-03-03 11:35:55,138 [buscar_maps.py] [INFO] =========================================================
+2026-03-03 11:35:55,138 [buscar_maps.py] [INFO] Nome: Clínica da Cidade - Piracicaba
+2026-03-03 11:35:55,138 [buscar_maps.py] [INFO] Endereço: Av. Independência, 1075 - Alto, Piracicaba - SP, 13419-155
+2026-03-03 11:35:55,138 [buscar_maps.py] [INFO] Telefone: (19) 3052-7627
+2026-03-03 11:35:55,138 [buscar_maps.py] [INFO] Nota: 4,7
+2026-03-03 11:35:55,139 [buscar_maps.py] [INFO] Qtd. de Avaliações: 882
+2026-03-03 11:35:55,139 [buscar_maps.py] [INFO] Link da Página: https://clinicadacidade.com.br/centro-medico/piracicaba/
+2026-03-03 11:35:57,237 [buscar_maps.py] [INFO] =========================================================
+2026-03-03 11:35:57,237 [buscar_maps.py] [INFO] Nome: Clínica Bom Jesus
+2026-03-03 11:35:57,237 [buscar_maps.py] [INFO] Endereço: R. José Pinto de Almeida, 788 - Centro, Piracicaba - SP, 13419-000
+2026-03-03 11:35:57,237 [buscar_maps.py] [INFO] Telefone: (19) 3302-9754
+2026-03-03 11:35:57,237 [buscar_maps.py] [INFO] Nota: 3,4
+2026-03-03 11:35:57,237 [buscar_maps.py] [INFO] Qtd. de Avaliações: 91
+2026-03-03 11:35:57,238 [buscar_maps.py] [INFO] Link da Página: http://clinimedpiracicaba.com.br/
+2026-03-03 11:35:59,352 [buscar_maps.py] [INFO] =========================================================
+2026-03-03 11:35:59,352 [buscar_maps.py] [INFO] Nome: Centermed Clínica
+2026-03-03 11:35:59,352 [buscar_maps.py] [INFO] Endereço: R. Praça José Bonifácio, 839 - Centro, Piracicaba - SP, 13400-340
+2026-03-03 11:35:59,352 [buscar_maps.py] [INFO] Telefone: (19) 3927-5600
+2026-03-03 11:35:59,353 [buscar_maps.py] [INFO] Nota: 3,9
+2026-03-03 11:35:59,353 [buscar_maps.py] [INFO] Qtd. de Avaliações: 51
+2026-03-03 11:35:59,353 [buscar_maps.py] [INFO] Link da Página: http://www.centermedclinica.com.br/
+2026-03-03 11:36:01,464 [buscar_maps.py] [INFO] =========================================================
+2026-03-03 11:36:01,464 [buscar_maps.py] [INFO] Nome: Clínica Piracicaba Privamed
+2026-03-03 11:36:01,465 [buscar_maps.py] [INFO] Endereço: R. Espírito Santo, 179 - Piracicamirim, Piracicaba - SP, 13420-505
+2026-03-03 11:36:01,465 [buscar_maps.py] [INFO] Telefone: (19) 3432-1112
+2026-03-03 11:36:01,465 [buscar_maps.py] [INFO] Nota: 4,8
+2026-03-03 11:36:01,465 [buscar_maps.py] [INFO] Qtd. de Avaliações: 50
+2026-03-03 11:36:01,465 [buscar_maps.py] [INFO] Link da Página: Não disponível
+2026-03-03 11:36:03,600 [buscar_maps.py] [INFO] =========================================================
+2026-03-03 11:36:03,601 [buscar_maps.py] [INFO] Nome: Clinica Moraes
+2026-03-03 11:36:03,601 [buscar_maps.py] [INFO] Endereço: Condomínio Edifício Primus Center - Av. Independência, 350 - SALA 161/162 - Alto, Piracicaba - SP, 13419-160
+2026-03-03 11:36:03,601 [buscar_maps.py] [INFO] Telefone: (19) 3374-6209
+2026-03-03 11:36:03,601 [buscar_maps.py] [INFO] Nota: 4,6
+2026-03-03 11:36:03,601 [buscar_maps.py] [INFO] Qtd. de Avaliações: 780
+2026-03-03 11:36:03,601 [buscar_maps.py] [INFO] Link da Página: http://www.clinicamoraes.com.br/
+2026-03-03 11:36:05,767 [buscar_maps.py] [INFO] =========================================================
+2026-03-03 11:36:05,768 [buscar_maps.py] [INFO] Nome: Centro Clínico Paulista
+2026-03-03 11:36:05,768 [buscar_maps.py] [INFO] Endereço: Av. Dr. Edgar Conceição, 779 - sala 9 - Paulista, Piracicaba - SP, 13401-100
+2026-03-03 11:36:05,768 [buscar_maps.py] [INFO] Telefone: (19) 3422-0948
+2026-03-03 11:36:05,768 [buscar_maps.py] [INFO] Nota: 3,5
+2026-03-03 11:36:05,768 [buscar_maps.py] [INFO] Qtd. de Avaliações: 30
+2026-03-03 11:36:05,768 [buscar_maps.py] [INFO] Link da Página: Não disponível
+2026-03-03 11:36:07,903 [buscar_maps.py] [INFO] =========================================================
+2026-03-03 11:36:07,903 [buscar_maps.py] [INFO] Nome: Clínica Bragalha
+2026-03-03 11:36:07,904 [buscar_maps.py] [INFO] Endereço: R. Gomes Carneiro, 1729 - Alto, Piracicaba - SP, 13419-165
+2026-03-03 11:36:07,904 [buscar_maps.py] [INFO] Telefone: (19) 3402-4008
+2026-03-03 11:36:07,904 [buscar_maps.py] [INFO] Nota: 4,2
+2026-03-03 11:36:07,904 [buscar_maps.py] [INFO] Qtd. de Avaliações: 110
+2026-03-03 11:36:07,904 [buscar_maps.py] [INFO] Link da Página: http://www.clinicabragalha.com.br/
+2026-03-03 11:36:10,060 [buscar_maps.py] [INFO] =========================================================
+2026-03-03 11:36:10,060 [buscar_maps.py] [INFO] Nome: Clínica Saúde Integrada Piracicaba
+2026-03-03 11:36:10,060 [buscar_maps.py] [INFO] Endereço: Av. Independência, 3053 - Alemães, Piracicaba - SP, 13416-240
+2026-03-03 11:36:10,060 [buscar_maps.py] [INFO] Telefone: (19) 97146-5713
+2026-03-03 11:36:10,061 [buscar_maps.py] [INFO] Nota: 3,9
+2026-03-03 11:36:10,061 [buscar_maps.py] [INFO] Qtd. de Avaliações: 15
+2026-03-03 11:36:10,061 [buscar_maps.py] [INFO] Link da Página: https://csipiracicaba.com.br/
+2026-03-03 11:36:12,203 [buscar_maps.py] [INFO] =========================================================
+2026-03-03 11:36:12,203 [buscar_maps.py] [INFO] Nome: Up Clin Clínica de Especialidades
+2026-03-03 11:36:12,203 [buscar_maps.py] [INFO] Endereço: Av. Independência, 699 - Alto, Piracicaba - SP, 13419-155
+2026-03-03 11:36:12,203 [buscar_maps.py] [INFO] Telefone: (19) 3402-6513
+2026-03-03 11:36:12,203 [buscar_maps.py] [INFO] Nota: 4,7
+2026-03-03 11:36:12,203 [buscar_maps.py] [INFO] Qtd. de Avaliações: 14
+2026-03-03 11:36:12,204 [buscar_maps.py] [INFO] Link da Página: https://clinicaupclin.com.br/
+2026-03-03 11:36:12,206 [salvar_excel.py] [INFO] =========================================================
+2026-03-03 11:36:12,206 [salvar_excel.py] [INFO]    Aba adicionada ao Excel: Clínicas Médicas - Piracicaba, 
+2026-03-03 11:36:12,207 [buscar_maps.py] [INFO] =========================================================
+2026-03-03 11:36:12,207 [buscar_maps.py] [INFO]    Buscando: Supermercados em Curitiba, PR (quantidade: 5)
+2026-03-03 11:36:17,495 [buscar_maps.py] [INFO] =========================================================
+2026-03-03 11:36:17,495 [buscar_maps.py] [INFO] Nome: Supermercado Condor Agua Verde
+2026-03-03 11:36:17,495 [buscar_maps.py] [INFO] Endereço: Av. Água Verde, 860 - Água Verde, Curitiba - PR, 80620-200
+2026-03-03 11:36:17,496 [buscar_maps.py] [INFO] Telefone: (41) 3888-2229
+2026-03-03 11:36:17,496 [buscar_maps.py] [INFO] Nota: 4,2
+2026-03-03 11:36:17,496 [buscar_maps.py] [INFO] Qtd. de Avaliações: 13.107
+2026-03-03 11:36:17,496 [buscar_maps.py] [INFO] Link da Página: https://www.condor.com.br/
+2026-03-03 11:36:19,582 [buscar_maps.py] [INFO] =========================================================
+2026-03-03 11:36:19,582 [buscar_maps.py] [INFO] Nome: Curitiba Supermercados
+2026-03-03 11:36:19,582 [buscar_maps.py] [INFO] Endereço: Rua Professor Algacyr Munhoz Mader, 4538 - Cidade Industrial de Curitiba, Curitiba - PR, 81310-020
+2026-03-03 11:36:19,582 [buscar_maps.py] [INFO] Telefone: (41) 3077-6095
+2026-03-03 11:36:19,582 [buscar_maps.py] [INFO] Nota: 4,4
+2026-03-03 11:36:19,582 [buscar_maps.py] [INFO] Qtd. de Avaliações: 1.569
+2026-03-03 11:36:19,582 [buscar_maps.py] [INFO] Link da Página: Não disponível
+2026-03-03 11:36:21,665 [buscar_maps.py] [INFO] =========================================================
+2026-03-03 11:36:21,666 [buscar_maps.py] [INFO] Nome: Supermercado Curitiba
+2026-03-03 11:36:21,666 [buscar_maps.py] [INFO] Endereço: Rua Marcos Antônio Malucelli, 947 - Caiuá, Curitiba - PR, 81260-260
+2026-03-03 11:36:21,666 [buscar_maps.py] [INFO] Telefone: (41) 3249-4615
+2026-03-03 11:36:21,666 [buscar_maps.py] [INFO] Nota: 4,4
+2026-03-03 11:36:21,666 [buscar_maps.py] [INFO] Qtd. de Avaliações: 2.881
+2026-03-03 11:36:21,666 [buscar_maps.py] [INFO] Link da Página: Não disponível
+2026-03-03 11:36:23,793 [buscar_maps.py] [INFO] =========================================================
+2026-03-03 11:36:23,793 [buscar_maps.py] [INFO] Nome: Festval Batel
+2026-03-03 11:36:23,793 [buscar_maps.py] [INFO] Endereço: R. Cel. Dulcídio, 880 - Batel, Curitiba - PR, 80420-170
+2026-03-03 11:36:23,794 [buscar_maps.py] [INFO] Telefone: (41) 3014-1590
+2026-03-03 11:36:23,794 [buscar_maps.py] [INFO] Nota: 4,7
+2026-03-03 11:36:23,794 [buscar_maps.py] [INFO] Qtd. de Avaliações: 5.610
+2026-03-03 11:36:23,794 [buscar_maps.py] [INFO] Link da Página: https://festval.com/
+2026-03-03 11:36:25,899 [buscar_maps.py] [INFO] =========================================================
+2026-03-03 11:36:25,899 [buscar_maps.py] [INFO] Nome: Carrefour Hipermercado Parolin
+2026-03-03 11:36:25,899 [buscar_maps.py] [INFO] Endereço: Av. Mal. Floriano Peixoto, 3031 - Rebouças, Curitiba - PR, 80220-000
+2026-03-03 11:36:25,899 [buscar_maps.py] [INFO] Telefone: (11) 3004-2222
+2026-03-03 11:36:25,899 [buscar_maps.py] [INFO] Nota: 4,1
+2026-03-03 11:36:25,899 [buscar_maps.py] [INFO] Qtd. de Avaliações: 14.968
+2026-03-03 11:36:25,899 [buscar_maps.py] [INFO] Link da Página: https://www.carrefour.com.br/localizador-de-lojas
+2026-03-03 11:36:25,902 [salvar_excel.py] [INFO] =========================================================
+2026-03-03 11:36:25,902 [salvar_excel.py] [INFO]    Aba adicionada ao Excel: Supermercados - Curitiba, PR
+2026-03-03 11:36:25,902 [buscar_maps.py] [INFO] =========================================================
+2026-03-03 11:36:25,902 [buscar_maps.py] [INFO]    Buscando: Barbearias em Belo Horizonte, MG (quantidade: 10)
+2026-03-03 11:36:32,212 [buscar_maps.py] [INFO] =========================================================
+2026-03-03 11:36:32,213 [buscar_maps.py] [INFO] Nome: Stop Studio – Barbearia e Visagismo
+2026-03-03 11:36:32,213 [buscar_maps.py] [INFO] Endereço: R. Rio Grande do Norte, 355 - Sala 310 - Santa Efigênia, Belo Horizonte - MG, 30130-130
+2026-03-03 11:36:32,213 [buscar_maps.py] [INFO] Telefone: (31) 99147-2866
+2026-03-03 11:36:32,213 [buscar_maps.py] [INFO] Nota: 5,0
+2026-03-03 11:36:32,213 [buscar_maps.py] [INFO] Qtd. de Avaliações: 106
+2026-03-03 11:36:32,213 [buscar_maps.py] [INFO] Link da Página: https://stopstudio.com.br/
+2026-03-03 11:36:34,301 [buscar_maps.py] [INFO] =========================================================
+2026-03-03 11:36:34,302 [buscar_maps.py] [INFO] Nome: All In Barbearia - Álvares Cabral
+2026-03-03 11:36:34,302 [buscar_maps.py] [INFO] Endereço: Av. Álvares Cabral, 1328 - Lourdes, Belo Horizonte - MG, 30170-001
+2026-03-03 11:36:34,302 [buscar_maps.py] [INFO] Telefone: (31) 98334-4975
+2026-03-03 11:36:34,302 [buscar_maps.py] [INFO] Nota: 5,0
+2026-03-03 11:36:34,302 [buscar_maps.py] [INFO] Qtd. de Avaliações: 583
+2026-03-03 11:36:34,302 [buscar_maps.py] [INFO] Link da Página: https://www.allinbarbearia.com.br/
+2026-03-03 11:36:36,441 [buscar_maps.py] [INFO] =========================================================
+2026-03-03 11:36:36,441 [buscar_maps.py] [INFO] Nome: Barber Town - Belo Horizonte
+2026-03-03 11:36:36,441 [buscar_maps.py] [INFO] Endereço: R. Paraíba, 1378 - Loja 113 - Savassi, Belo Horizonte - MG, 30130-148
+2026-03-03 11:36:36,441 [buscar_maps.py] [INFO] Telefone: (31) 99119-8729
+2026-03-03 11:36:36,441 [buscar_maps.py] [INFO] Nota: 5,0
+2026-03-03 11:36:36,441 [buscar_maps.py] [INFO] Qtd. de Avaliações: 260
+2026-03-03 11:36:36,442 [buscar_maps.py] [INFO] Link da Página: https://api.whatsapp.com/send?phone=5531991198729
+2026-03-03 11:36:38,532 [buscar_maps.py] [INFO] =========================================================
+2026-03-03 11:36:38,532 [buscar_maps.py] [INFO] Nome: Barbearia Tradicional
+2026-03-03 11:36:38,532 [buscar_maps.py] [INFO] Endereço: Rua dos Goitacazes, 407 - Centro, Belo Horizonte - MG, 30190-050
+2026-03-03 11:36:38,532 [buscar_maps.py] [INFO] Telefone: (31) 99396-9069
+2026-03-03 11:36:38,533 [buscar_maps.py] [INFO] Nota: 4,9
+2026-03-03 11:36:38,533 [buscar_maps.py] [INFO] Qtd. de Avaliações: 177
+2026-03-03 11:36:38,533 [buscar_maps.py] [INFO] Link da Página: https://bit.ly/3YjAE4q
+2026-03-03 11:36:40,649 [buscar_maps.py] [INFO] =========================================================
+2026-03-03 11:36:40,650 [buscar_maps.py] [INFO] Nome: Clube da Barba BH
+2026-03-03 11:36:40,650 [buscar_maps.py] [INFO] Endereço: R. Gentios, 161 - Loja 2 - Luxemburgo, Belo Horizonte - MG, 30380-490
+2026-03-03 11:36:40,650 [buscar_maps.py] [INFO] Telefone: (31) 97544-9071
+2026-03-03 11:36:40,650 [buscar_maps.py] [INFO] Nota: 4,9
+2026-03-03 11:36:40,650 [buscar_maps.py] [INFO] Qtd. de Avaliações: 441
+2026-03-03 11:36:40,650 [buscar_maps.py] [INFO] Link da Página: http://www.clubedabarbabh.com.br/
+2026-03-03 11:36:42,781 [buscar_maps.py] [INFO] =========================================================
+2026-03-03 11:36:42,782 [buscar_maps.py] [INFO] Nome: Mens Barbearia
+2026-03-03 11:36:42,782 [buscar_maps.py] [INFO] Endereço: Av. Bias Fortes, 851 - Lourdes, Belo Horizonte - MG, 30170-012
+2026-03-03 11:36:42,782 [buscar_maps.py] [INFO] Telefone: (31) 3785-8180
+2026-03-03 11:36:42,782 [buscar_maps.py] [INFO] Nota: 5,0
+2026-03-03 11:36:42,782 [buscar_maps.py] [INFO] Qtd. de Avaliações: 712
+2026-03-03 11:36:42,782 [buscar_maps.py] [INFO] Link da Página: https://www.mensbarbearia.com.br/
+2026-03-03 11:36:44,902 [buscar_maps.py] [INFO] =========================================================
+2026-03-03 11:36:44,902 [buscar_maps.py] [INFO] Nome: Folk Barbearia
+2026-03-03 11:36:44,902 [buscar_maps.py] [INFO] Endereço: Av. Prudente de Morais, 275 - loja 07 - Cidade Jardim, Belo Horizonte - MG, 30350-093
+2026-03-03 11:36:44,902 [buscar_maps.py] [INFO] Telefone: (31) 3267-9607
+2026-03-03 11:36:44,902 [buscar_maps.py] [INFO] Nota: 5,0
+2026-03-03 11:36:44,902 [buscar_maps.py] [INFO] Qtd. de Avaliações: 605
+2026-03-03 11:36:44,902 [buscar_maps.py] [INFO] Link da Página: https://folkbarbearia.com.br/
+2026-03-03 11:36:47,014 [buscar_maps.py] [INFO] =========================================================
+2026-03-03 11:36:47,014 [buscar_maps.py] [INFO] Nome: Barbearia Belo Horizonte Luxemburgo
+2026-03-03 11:36:47,014 [buscar_maps.py] [INFO] Endereço: Rua Guaicuí, 110 - lj 03 - Coracao de Jesus, Belo Horizonte - MG, 30380-342
+2026-03-03 11:36:47,014 [buscar_maps.py] [INFO] Telefone: (31) 3021-9791
+2026-03-03 11:36:47,014 [buscar_maps.py] [INFO] Nota: 4,6
+2026-03-03 11:36:47,014 [buscar_maps.py] [INFO] Qtd. de Avaliações: 204
+2026-03-03 11:36:47,014 [buscar_maps.py] [INFO] Link da Página: https://instagram.com/barbeariabelohorizonte?utm_medium=copy_link
+2026-03-03 11:36:49,133 [buscar_maps.py] [INFO] =========================================================
+2026-03-03 11:36:49,133 [buscar_maps.py] [INFO] Nome: Barbearia do Rapha Savassi
+2026-03-03 11:36:49,133 [buscar_maps.py] [INFO] Endereço: Rua Professor Moraes, 476 - Lj 01 - Funcionários, Belo Horizonte - MG, 30150-370
+2026-03-03 11:36:49,133 [buscar_maps.py] [INFO] Telefone: (31) 3055-3007
+2026-03-03 11:36:49,133 [buscar_maps.py] [INFO] Nota: 5,0
+2026-03-03 11:36:49,133 [buscar_maps.py] [INFO] Qtd. de Avaliações: 2.223
+2026-03-03 11:36:49,134 [buscar_maps.py] [INFO] Link da Página: http://www.barbeariadorapha.com.br/
+2026-03-03 11:36:51,244 [buscar_maps.py] [INFO] =========================================================
+2026-03-03 11:36:51,244 [buscar_maps.py] [INFO] Nome: Barbearia La Blade
+2026-03-03 11:36:51,244 [buscar_maps.py] [INFO] Endereço: Av. Prudente de Morais, 290 - loja 16 - Cidade Jardim, Belo Horizonte - MG, 30380-002
+2026-03-03 11:36:51,244 [buscar_maps.py] [INFO] Telefone: Não encontrado
+2026-03-03 11:36:51,244 [buscar_maps.py] [INFO] Nota: 5,0
+2026-03-03 11:36:51,244 [buscar_maps.py] [INFO] Qtd. de Avaliações: 270
+2026-03-03 11:36:51,244 [buscar_maps.py] [INFO] Link da Página: https://sites.appbarber.com.br/labladebarbearia-q26m
+2026-03-03 11:36:51,247 [salvar_excel.py] [INFO] =========================================================
+2026-03-03 11:36:51,247 [salvar_excel.py] [INFO]    Aba adicionada ao Excel: Barbearias - Belo Horizonte, MG
+2026-03-03 11:36:51,303 [salvar_excel.py] [INFO] =========================================================
+2026-03-03 11:36:51,304 [salvar_excel.py] [INFO]    Excel gerado com sucesso
+2026-03-03 11:36:53,804 [main.py] [INFO] =========================================================
+2026-03-03 11:36:53,805 [main.py] [INFO]    Arquivo gerado com sucesso: C:\RPA\projeto_rpa_maps\app\saida\resultado_busca_maps.xlsx
+2026-03-03 11:36:53,805 [main.py] [INFO] =========================================== Execução finalizada ===========================================

@@ -5,7 +5,7 @@
   "input_file_name": "input.json",
   "output_file_name": "resultado_busca_maps.xlsx",
 
-  "path_campo_buscar": "//*[@id='searchboxinput']",
+  "path_campo_buscar": "/html/body/div[1]/div[2]/div[9]/div[3]/div[1]/div[1]/div/div[1]/form/input",
 
   "selector_lista_resultados": "//*[contains(@class,'Nv2PK')]",
   "selector_scroll_div": "//div[contains(@aria-label, 'Resultados')]",
